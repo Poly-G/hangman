@@ -10,6 +10,10 @@ A random word is selected at the beginning of the game. The word the user needs 
 
 HTML, CSS, Vanilla JavaScript 
 
+## DEMO 
+
+[DEMO](https://poly-g.github.io/hangman/)
+
 
 
 
